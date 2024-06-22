@@ -1,4 +1,4 @@
 # Apna-collage-demo
 This is my first git repository 
 <br>
-Author-Shlok (Apna collage)
+Author-Shlok-(Apna collage)
